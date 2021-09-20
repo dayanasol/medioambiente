@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: casa2
+    uniqueID: 2316778047
+    locked: 0
+  - name: Text
+    uniqueID: 2510661309
+    locked: 0
+  - name: Botton
+    uniqueID: 2183902357
+    locked: 0
+  - name: cueva boton
+    uniqueID: 1466537895
+    locked: 0
+  - name: derecha
+    uniqueID: 174448001
+    locked: 0
+  - name: casa2
+    uniqueID: 3913492797
+    locked: 0
+  - name: personaje
+    uniqueID: 1215553009
+    locked: 0
+  - name: abajp 3
+    uniqueID: 2635600273
+    locked: 0
+  - name: Brackgroud
+    uniqueID: 3545381331
+    locked: 0
+  - name: Player
+    uniqueID: 4285885083
+    locked: 0
+  - name: Objeto
+    uniqueID: 940164329
+    locked: 0
